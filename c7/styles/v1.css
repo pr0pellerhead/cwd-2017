@@ -1,0 +1,27 @@
+.list-one {
+	width: 100%;
+	background-color: yellow;
+	padding: 10px;
+	text-align: center;
+}
+
+	.list-one li {
+		display: inline-block;
+		margin: 0 5px;
+		background-color: red;
+		color: white;
+	}
+
+.list-two {
+	width: 600px;
+	height: 60px;
+	background-color: cyan;
+	margin: 100px auto;
+}
+
+	.list-two li {
+		float: left;
+		width: 50px;
+		margin: 5px;
+		list-style: none;
+	}
